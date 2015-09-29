@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enhancements>
+    <Page1>
+        <video top="87" left="23" height="550" width="733" src="http://10.5.6.100/others/5.mp4">Video1</video>
+        <video top="56" left="174" height="344" width="328" src="http://10.5.6.100/others/5.mp4">Video2</video>
+        <audio top="482" left="332" height="100" width="111" src="http://10.5.6.100/others/audio.mp3">Audio1</audio>
+        <video top="55" left="576" height="163" width="111" src="http://10.5.6.100/others/5.mp4">Video3</video>
+        <text top="55" left="576" height="163" width="111" title="Text1">Lorem Ipsum</text>
+        <slideshow top="55" left="576" height="163" width="111" title="SlideShow1">
+            <img src="enhancement/image1.jpg"/>
+                <img src="enhancement/image2.jpg"/>
+                    <img src="enhancement/image3.jpg"/>
+                    </slideshow>
+                    
+                    <image top="55" left="576" height="163" width="111" src="enhancement/Image13.jpg" >Image1</image>
+                </Page1>
+    <Page2>
+        <video top="87" left="23" height="550" width="733" src="http://10.5.6.100/others/5.mp4">Video1</video>
+        <video top="56" left="174" height="344" width="328" src="http://10.5.6.100/others/5.mp4">Video2</video>
+        <audio top="482" left="332" height="100" width="111" src="http://10.5.6.100/others/audio.mp3">Audio1</audio>
+        <video top="55" left="576" height="163" width="111" src="http://10.5.6.100/others/5.mp4">Video3</video>
+        <text top="55" left="576" height="163" width="111" title="Text1">Lorem Ipsum</text>
+        <slideshow top="55" left="576" height="163" width="111" title="SlideShow1">
+            <img src="enhancement/image1.jpg"/>
+            <img src="enhancement/image2.jpg"/>
+            <img src="enhancement/image3.jpg"/>
+        </slideshow>
+        
+        <image top="55" left="576" height="163" width="111" src="enhancement/Image13.jpg" >Image1</image>
+    </Page2>
+    <Page4>
+        <video top="87" left="23" height="550" width="733" src="http://10.5.6.100/others/5.mp4">Video1</video>
+        <video top="56" left="174" height="344" width="328" src="http://10.5.6.100/others/5.mp4">Video2</video>
+        <audio top="482" left="332" height="100" width="111" src="http://10.5.6.100/others/audio.mp3">Audio1</audio>
+        <video top="55" left="576" height="163" width="111" src="http://10.5.6.100/others/audio.mp3">Video3</video>
+        <text top="55" left="576" height="163" width="111" title="Text1">Lorem Ipsum</text>
+        <slideshow top="55" left="576" height="163" width="111" title="SlideShow1">
+            <img src="enhancement/image1.jpg"/>
+            <img src="enhancement/image2.jpg"/>
+            <img src="enhancement/image3.jpg"/>
+        </slideshow>
+        
+        <image top="55" left="576" height="163" width="111" src="enhancement/Image13.jpg" >Image1</image>
+    </Page4>
+            </enhancements>
